@@ -17,7 +17,6 @@ label variable malecandidate "Candidate Gender"
 reg calledback EliteSchoolCandidate malecandidate
 
 * Store regression
-eststo regression_one 
 eststo regression_two
 
 
